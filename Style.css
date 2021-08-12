@@ -129,6 +129,7 @@ section{
 	width: 100%;
 	background-image: url('photo7.png');
 	background-position: center;
+	background-size: cover;
 	background-size: 100%;
 }
 
