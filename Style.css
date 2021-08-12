@@ -1,0 +1,202 @@
+
+
+
+
+
+/* 'Roboto Slab', serif*/
+
+
+
+h1, h2, h3
+{
+    font-family: 'Trebuchet MS', sans-serif;
+    font-size:  1em;
+    margin-left: 30px;
+    margin-right: 20px;
+    color: #898989;
+}
+
+
+
+h4, h5, h6
+{
+	font-family: 'Trebuchet MS', sans-serif;
+    font-size:  1em;
+    margin-left: 30px;
+    margin-right: 20px;
+    color: white;
+
+}
+
+
+
+
+h1, h4{
+	font-size:  1.5em;
+}
+
+
+
+
+body{
+	margin: 0px;
+	padding: 0px;
+	background: #cacac8;
+	background-image: url('patern.png');
+	background-size: 200px;
+
+
+}
+
+
+
+section{
+	width: 100%;
+	height: 7300px;
+	position: absolute;
+	top: 0px;
+
+}
+
+.header{
+
+	margin-right: auto;
+	margin-left: auto;
+	height: 1158px;
+	width: 100%;
+	max-width: 500px;
+	background-image: url('kapli.png');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: top ;
+}
+
+
+
+
+
+
+
+
+
+
+.section{
+	width: 90%;
+	max-width: 400px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 20px;
+	background: #ffffff;
+	border-radius: 3px;
+	box-shadow: 0.4em 0.4em 7px rgba(0, 0, 0, 0.4) ;
+	overflow: hidden;
+	background-position: center;
+	background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+
+
+
+
+
+.happy-birthday{
+
+	margin-top: 30px;
+	margin-bottom: 30px;
+	margin-right: auto;
+	margin-left: auto;
+	background-image: url('h-b.png');
+	background-position: center;
+	background-repeat: no-repeat;
+	width: 100%;
+	max-width: 500px;
+	height: 270px;
+	background-size: cover;
+}
+
+
+
+.photo3{
+
+	height: 310px;
+	width: 100%;
+	background-image: url('photo3.png');
+	background-position: center;
+	background-size: cover;
+  
+}
+
+.photo1 {
+
+	height: 430px;
+	width: 100%;
+	background-image: url('photo1.jpg');
+	background-position: center;
+	background-size: 100%;
+
+}
+
+.photo2 {
+	height: 300px;
+	width: 100%;
+	background-image: url('photo2.png');
+	background-size: cover;
+}
+
+.photo6{
+	height: 150px;
+	width: 150px;
+	margin-top: 30px;
+	background-image: url('photo6.png');
+	background-size: cover;
+}
+
+.photo7{
+	height: 350px;
+	width: 100%;
+	background-image: url('photo7.png');
+	background-position: left;
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+
+
+.substrate{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	width: 100%;
+	background: rgba(0,0,0,0.5);
+
+
+
+}
+
+
+.blur{
+
+}
+
+
+
+@media screen and (max-width: 400px) {
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
